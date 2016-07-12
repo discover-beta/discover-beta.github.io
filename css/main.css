@@ -152,8 +152,8 @@ body {
     padding: 0;
 }
 h1,
-h2 {
-    color:#FFFFFF;
+h2{
+    color: #FFFFFF;
 }
 h3,
 h4,
@@ -161,7 +161,8 @@ h5 {
   color: #787878;
   font-family: Open_sanslight;
 }
-h6 { font-weight: normal }
+h6 { font-weight: normal}
+
 h2 {
     font-family: latoregular;
     font-size: 1.5em;
